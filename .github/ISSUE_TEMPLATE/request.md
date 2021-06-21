@@ -27,6 +27,7 @@ assignees: woowahan-pjs, woowahanCU, woowapark
 - [ ] 디자인
 - [ ] 개발
 - [ ] 교보재
+- [ ] 테스트
 
 **참고할 수 있는 기능, 서비스, 뼈대 코드 URL**: 
 (e.g. https://github.com/woowacourse/service-archive)
